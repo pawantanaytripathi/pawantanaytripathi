@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋 I'm Pawan Tanay Tripathi ✨
 
-<!--
-**pawantanaytripathi/pawantanaytripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### A 3rd year Computer Science Engineering undergraduate at ABESIT. An ardent student of Machine Learning. My leisure hours are spent on competitive programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a great amount of experience in - Machine learning, Deep Learning- working and creating CNN, NLP models etc and basic Android app development. I have a firm grip on Python & Java along with a bit of experience in working with Google Cloud as well.
+
+#### Coder by day, Gamer by night.
+
+- 🔭 I’m currently working on web development & harnessing my competitive programming skills.
+- 🌱 I’m currently learning Django & React JS to learn how ML models can be integrated on websites in a better fashion.
+- 👯 I’m looking to collaborate on all sorts of projects & community building.
+- 🤔 I’m looking for help with internships & job opportunities.
+- 💬 Ask me about anything :D
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I was given a million dollars, I'd still spend the whole day in front of my laptop... ordering things from amazon 😆.
+- 📫 How to reach me: Mail - pawantanaytripathi@gmail.com, LinkedIn - https://www.linkedin.com/in/pawan-tanay-tripathi-07637151/
+
