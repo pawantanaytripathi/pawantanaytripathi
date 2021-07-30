@@ -7,7 +7,7 @@ I have a great amount of experience in - Machine learning, Deep Learning- workin
 
 #### Coder by day, Gamer by night.
 
-- 🔭 I’m currently working on web development & harnessing my competitive programming skills.
+- 🔭 I’m currently working on NLP & harnessing my competitive programming skills.
 - 🌱 I’m currently learning Django & React JS to learn how ML models can be integrated on websites in a better fashion.
 - 👯 I’m looking to collaborate on all sorts of projects & community building.
 - 🤔 I’m looking for help with internships & job opportunities.
