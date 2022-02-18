@@ -8,7 +8,7 @@ I have a great amount of experience in - Machine learning, Deep Learning- workin
 #### Coder by day, Gamer by night.
 
 - 🔭 I’m currently learning NLP & harnessing my competitive programming skills.
-- 🌱 I’m currently working as a full-time SDE intern at TravClan.
+- 🌱 I’m currently working as SDE 1 at TravClan.
 - 👯 I’m looking to collaborate on all sorts of projects & community building.
 - 🤔 I’m looking for help with job opportunities.
 - 💬 Ask me about anything :D
